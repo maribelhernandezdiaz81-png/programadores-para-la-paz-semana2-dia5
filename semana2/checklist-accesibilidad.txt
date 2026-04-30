@@ -1,32 +1,32 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:emmanuel camilo rincón hernandez 
+Fecha:30 de abril 2026
+Nombre de la rama:programadores- para-la-paz-camilo
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta:si porque lo modifique para los jovenes
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta:si para crear una asociación de jovenes
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:
+Respuesta:si para poder entender 
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta:si y explica para qué es 
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:
+Respuesta:si porque se pide correo del participante 
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
-Respuesta:
+Respuesta:si que todos los jóvenes escriban sus propuestas
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
 Respuesta:
-
+si hay un espacio bueno
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta:si 
 
 9. ¿La página se puede leer con facilidad?
 Respuesta:
