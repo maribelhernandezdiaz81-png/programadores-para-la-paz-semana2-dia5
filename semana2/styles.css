@@ -1,17 +1,17 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family:emmanuel_camilo, sans-serif;
     margin: 20px;
     line-height: 1.5;
-    background-color: #f5f5f5;
+    background-color:verde #f5f5f5;
   }
   
-  main {
+  main {replit-agent
     max-width: 700px;
     margin: 0 auto;
   }
   
   .contenedor {
-    background-color: white;
+    background-color: white;azul
     padding: 24px;
     border-radius: 8px;
   }
